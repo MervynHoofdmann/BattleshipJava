@@ -1,0 +1,32 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Battleship/*
+!/Battleship/task/
+/Battleship/task/*
+!/Battleship/task/src
+
+# Project exclude paths
+/Topics/Custom exceptions/Checked exception with constructor/out/
+/Topics/Custom exceptions/Checked exception with constructor/out/production/classes/
+/Topics/Files/Are siblings/out/
+/Topics/Files/Are siblings/out/production/classes/
+/Topics/Input streams/Convert to bytes/out/
+/Topics/Input streams/Convert to bytes/out/production/classes/
+/Topics/Input streams/Reverse input text/out/
+/Topics/Input streams/Reverse input text/out/production/classes/
+/Topics/Iterating over arrays/Count how many times a number occurs/out/
+/Topics/Iterating over arrays/Count how many times a number occurs/out/production/classes/
+/Topics/Scanning the input/Printing each word in a new line/out/
+/Topics/Scanning the input/Printing each word in a new line/out/production/classes/
+/Topics/The for-loop/The count of numbers divisible by N/out/
+/Topics/The for-loop/The count of numbers divisible by N/out/production/classes/
